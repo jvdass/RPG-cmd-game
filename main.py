@@ -132,7 +132,10 @@ def main():
         
         if input("\nContinuer ? (o/n/save) : ").lower() == "save":
             save_game(player)
-        elif input == "n": break
+        elif input == "o":
+            continue
+        elif input == "n": 
+            break
 
 if __name__ == "__main__":
     

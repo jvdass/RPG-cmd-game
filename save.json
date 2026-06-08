@@ -1,0 +1,24 @@
+{
+    "name": "jv",
+    "hp": 140,
+    "max_hp": 140,
+    "attack_val": 25,
+    "defense_val": 5,
+    "element": "Neutre",
+    "mp": 60,
+    "max_mp": 60,
+    "job": "1",
+    "level": 4,
+    "xp": 83,
+    "xp_next_level": 168,
+    "gold": 173,
+    "inventory": [],
+    "weapon": {
+        "name": "Mains nues",
+        "bonus": 0
+    },
+    "armor": {
+        "name": "V\u00eatements us\u00e9s",
+        "bonus": 0
+    }
+}
